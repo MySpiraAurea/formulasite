@@ -23,7 +23,6 @@ from djangoProject import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('seasons.urls')),
-
 ]
 
 handler404 = pageNotFound

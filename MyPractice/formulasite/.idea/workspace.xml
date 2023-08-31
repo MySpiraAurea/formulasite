@@ -2,63 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0ae948e-85f4-4a5d-9d8a-269c092f42ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/PycharmProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/.idea/DjangoPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/Jinja_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/Jinja_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/Jinja_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/Jinja_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/Jinja_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/dialogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/ex_mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/layout/default.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/Jinja/templates/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/SQLite/lesson_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoPractice/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learning lessons/.idea/Learning lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqbpro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/F1-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/blockquote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/logo_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/mainicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/mainicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/share_yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/static/seasons/images/smallmenu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seasons/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/seasons/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/seasons/call_seasons_number.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/seasons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/seasons/seasons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/seasons/drivers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/seasons/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/seasons/stories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/seasons/teams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/seasons/tracks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/Jinja_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/Jinja_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/Jinja_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/Jinja_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/Jinja_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/SQLite/lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/SQLite/lesson_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoPractice/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/Jinja_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/dialogs.htm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/dialogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/ex_mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/layout/default.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoPractice/templates/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/static/seasons/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/static/seasons/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/seasons/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seasons/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/seasons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seasons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/seasons/seasons.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/seasons/seasons.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +58,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -83,25 +69,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2TqBs1OaH73QwcsCd6PsI8W9eTq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/arkhi/PycharmProjects/MyPractice/formulasite&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/arkhi/PycharmProjects/MyPractice/djsite",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject" />
@@ -148,7 +137,15 @@
       <workItem from="1692615675738" duration="1553000" />
       <workItem from="1692617359801" duration="14326000" />
       <workItem from="1692695214963" duration="6429000" />
-      <workItem from="1692783256999" duration="5772000" />
+      <workItem from="1692783256999" duration="11899000" />
+      <workItem from="1692873618475" duration="661000" />
+      <workItem from="1692913228139" duration="4475000" />
+      <workItem from="1692963872052" duration="5009000" />
+      <workItem from="1693001212850" duration="1921000" />
+      <workItem from="1693049762173" duration="5201000" />
+      <workItem from="1693224800979" duration="12511000" />
+      <workItem from="1693253527270" duration="3029000" />
+      <workItem from="1693492149477" duration="6306000" />
     </task>
     <servers />
   </component>

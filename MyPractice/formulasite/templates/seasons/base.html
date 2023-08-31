@@ -32,11 +32,13 @@
         <tr>
             <td valign="top" class="left-chapters">
                 <ul id="leftchapters">
-                    <li><a href="seasons">Сезоны</a></li>
-                    <li><a href="drivers">Гонщики</a></li>
-                    <li><a href="teams">Команды</a></li>
-                    <li><a href="tracks">Трассы</a></li>
-                    <li><a href="stories">Истории</a></li>
+                    {% for s in sidebar %}
+                        {% if s.function == category %}
+                            <li class="selected">{{ s.title }}</li>
+                        {% else %}
+                            <li><a href="{% url s.function %}">{{ s.title }}</a></li>
+		                {% endif %}
+                    {% endfor %}
                     <li class="share">
 		                <p>Наш канал</p>
 		                <a class="share-yt" href="https://www.youtube.com/@Formula1" target="_blank" rel="nofollow"></a>

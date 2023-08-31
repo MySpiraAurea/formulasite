@@ -28,7 +28,7 @@ img.img-article-left {
 }
 
 img.img-article-left.thumb {
-	max-width: 150px;
+	max-width: 500px;
 	height: auto;
 }
 
@@ -195,14 +195,14 @@ div.button {
 	color: #e00300;
 }
 
-.left-chapters ul li.selected {color: #e00300; }
+.left-chapters ul li.selected {color: #607d8b; }
 
 .left-chapters ul li a {
 	color: #e00300;
 	text-decoration: none;
 }
 
-.left-chapters ul li a:hover { color: #e00300; }
+.left-chapters ul li a:hover { color: #607d8b; }
 
 .left-chapters ul li.share {margin: 260px 0 0 0;}
 
